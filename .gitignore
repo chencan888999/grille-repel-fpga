@@ -1,0 +1,21 @@
+# Gowin 云源软件生成目录
+impl/
+*.gprj.user
+*.db
+*.fs
+*.bin
+*.binx
+*.vg
+*.log
+*.rpt.html
+*.rpt.txt
+*.power.html
+*.pin.html
+*.tr.html
+*.timing_paths
+temp/
+RTL_GAO/
+
+# 仿真波形
+*.vcd
+*.wlf
